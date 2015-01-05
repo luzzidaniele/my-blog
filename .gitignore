@@ -1,0 +1,21 @@
+# vagrant system files
+.vagrant
+
+# mac os files
+.DS_Store
+
+# cache files for sublime text
+blog/*.tmlanguage.cache
+blog/*.tmPreferences.cache
+blog/*.stTheme.cache
+# workspace files are user-specific
+blog/*.sublime-workspace
+# project files should be checked into the repository, unless a significant
+# proportion of contributors will probably not be using SublimeText
+blog/*.sublime-project
+# sftp configuration file
+blog/sftp-config.json
+
+# jekyll no repo files
+blog/_site/
+blog/.sass-cache/
